@@ -1,6 +1,8 @@
 ## IPL Prediction using Machine Learning
 Overview
 
+NOTES: all the .pkl files where deleted due to it's size being large after running the model evaluation and model training file it will be generated automatically.
+
 This project aims to predict the outcomes of Indian Premier League (IPL) matches using machine learning techniques. The prediction model utilizes historical data, player statistics, team performance, and various features to make predictions about match results.
 Features
 
